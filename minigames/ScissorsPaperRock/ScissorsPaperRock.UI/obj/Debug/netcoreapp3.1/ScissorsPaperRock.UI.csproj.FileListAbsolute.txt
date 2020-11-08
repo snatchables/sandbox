@@ -1,0 +1,16 @@
+C:\Users\joshi\source\repos\ScissorsPaperRock\ScissorsPaperRock.UI\bin\Debug\netcoreapp3.1\ScissorsPaperRock.UI.exe
+C:\Users\joshi\source\repos\ScissorsPaperRock\ScissorsPaperRock.UI\bin\Debug\netcoreapp3.1\ScissorsPaperRock.UI.deps.json
+C:\Users\joshi\source\repos\ScissorsPaperRock\ScissorsPaperRock.UI\bin\Debug\netcoreapp3.1\ScissorsPaperRock.UI.runtimeconfig.json
+C:\Users\joshi\source\repos\ScissorsPaperRock\ScissorsPaperRock.UI\bin\Debug\netcoreapp3.1\ScissorsPaperRock.UI.runtimeconfig.dev.json
+C:\Users\joshi\source\repos\ScissorsPaperRock\ScissorsPaperRock.UI\bin\Debug\netcoreapp3.1\ScissorsPaperRock.UI.dll
+C:\Users\joshi\source\repos\ScissorsPaperRock\ScissorsPaperRock.UI\bin\Debug\netcoreapp3.1\ScissorsPaperRock.UI.pdb
+C:\Users\joshi\source\repos\ScissorsPaperRock\ScissorsPaperRock.UI\bin\Debug\netcoreapp3.1\ScissorsPaperRock.BL.dll
+C:\Users\joshi\source\repos\ScissorsPaperRock\ScissorsPaperRock.UI\bin\Debug\netcoreapp3.1\ScissorsPaperRock.BL.pdb
+C:\Users\joshi\source\repos\ScissorsPaperRock\ScissorsPaperRock.UI\obj\Debug\netcoreapp3.1\ScissorsPaperRock.UI.csprojAssemblyReference.cache
+C:\Users\joshi\source\repos\ScissorsPaperRock\ScissorsPaperRock.UI\obj\Debug\netcoreapp3.1\ScissorsPaperRock.UI.AssemblyInfoInputs.cache
+C:\Users\joshi\source\repos\ScissorsPaperRock\ScissorsPaperRock.UI\obj\Debug\netcoreapp3.1\ScissorsPaperRock.UI.AssemblyInfo.cs
+C:\Users\joshi\source\repos\ScissorsPaperRock\ScissorsPaperRock.UI\obj\Debug\netcoreapp3.1\ScissorsPaperRock.UI.csproj.CoreCompileInputs.cache
+C:\Users\joshi\source\repos\ScissorsPaperRock\ScissorsPaperRock.UI\obj\Debug\netcoreapp3.1\ScissorsPaperRock.UI.csproj.CopyComplete
+C:\Users\joshi\source\repos\ScissorsPaperRock\ScissorsPaperRock.UI\obj\Debug\netcoreapp3.1\ScissorsPaperRock.UI.dll
+C:\Users\joshi\source\repos\ScissorsPaperRock\ScissorsPaperRock.UI\obj\Debug\netcoreapp3.1\ScissorsPaperRock.UI.pdb
+C:\Users\joshi\source\repos\ScissorsPaperRock\ScissorsPaperRock.UI\obj\Debug\netcoreapp3.1\ScissorsPaperRock.UI.genruntimeconfig.cache
