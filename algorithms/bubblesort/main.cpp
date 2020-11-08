@@ -17,7 +17,7 @@ int main()
         if(i == length - 1) {std::cout << '\n' << '\n';}
     }
 
-    // outer loop to repeat passes (does one pass for every element, not optimized yet)
+    // outer loop to repeat passes (stops iterating once once all elements are sorted)
     for(int i = 0; i < length; i++)
     {
         bool swapped = false;
