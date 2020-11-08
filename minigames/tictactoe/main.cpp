@@ -19,14 +19,6 @@ void printPositions()
 	}
 }
 
-void pseudoRefresh()
-{
-	for (int i = 0; i < 6; i++)
-	{
-		std::cout << i << '\n';
-	}
-}
-
 int main()
 {
 	while (true)
