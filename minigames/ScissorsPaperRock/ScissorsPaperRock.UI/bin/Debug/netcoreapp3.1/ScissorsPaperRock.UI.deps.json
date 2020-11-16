@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ScissorsPaperRock.UI/1.0.0": {
+        "dependencies": {
+          "ScissorsPaperRock.BL": "1.0.0"
+        },
+        "runtime": {
+          "ScissorsPaperRock.UI.dll": {}
+        }
+      },
+      "ScissorsPaperRock.BL/1.0.0": {
+        "runtime": {
+          "ScissorsPaperRock.BL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ScissorsPaperRock.UI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ScissorsPaperRock.BL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

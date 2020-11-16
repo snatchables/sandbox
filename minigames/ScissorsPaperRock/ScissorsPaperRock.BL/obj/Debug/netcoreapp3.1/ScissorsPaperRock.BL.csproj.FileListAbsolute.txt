@@ -1,0 +1,9 @@
+C:\Users\joshi\source\repos\ScissorsPaperRock\ScissorsPaperRock.BL\bin\Debug\netcoreapp3.1\ScissorsPaperRock.BL.deps.json
+C:\Users\joshi\source\repos\ScissorsPaperRock\ScissorsPaperRock.BL\bin\Debug\netcoreapp3.1\ScissorsPaperRock.BL.dll
+C:\Users\joshi\source\repos\ScissorsPaperRock\ScissorsPaperRock.BL\bin\Debug\netcoreapp3.1\ScissorsPaperRock.BL.pdb
+C:\Users\joshi\source\repos\ScissorsPaperRock\ScissorsPaperRock.BL\obj\Debug\netcoreapp3.1\ScissorsPaperRock.BL.csprojAssemblyReference.cache
+C:\Users\joshi\source\repos\ScissorsPaperRock\ScissorsPaperRock.BL\obj\Debug\netcoreapp3.1\ScissorsPaperRock.BL.AssemblyInfoInputs.cache
+C:\Users\joshi\source\repos\ScissorsPaperRock\ScissorsPaperRock.BL\obj\Debug\netcoreapp3.1\ScissorsPaperRock.BL.AssemblyInfo.cs
+C:\Users\joshi\source\repos\ScissorsPaperRock\ScissorsPaperRock.BL\obj\Debug\netcoreapp3.1\ScissorsPaperRock.BL.csproj.CoreCompileInputs.cache
+C:\Users\joshi\source\repos\ScissorsPaperRock\ScissorsPaperRock.BL\obj\Debug\netcoreapp3.1\ScissorsPaperRock.BL.dll
+C:\Users\joshi\source\repos\ScissorsPaperRock\ScissorsPaperRock.BL\obj\Debug\netcoreapp3.1\ScissorsPaperRock.BL.pdb
